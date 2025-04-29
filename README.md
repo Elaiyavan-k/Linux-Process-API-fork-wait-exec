@@ -140,7 +140,7 @@ int main() {
 
 ~~~
 
-##OUTPUT
+## OUTPUT
 
 
 ![image](https://github.com/user-attachments/assets/ba3b10f6-009b-43df-85d5-2e21c83505b8)
